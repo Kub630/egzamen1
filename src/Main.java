@@ -7,5 +7,6 @@ public class Main {
         int[] myin23 = {1, 2, 3, 4};
         int[] kuba = new int[20];
         int[] suui = {1,2,3,4};
+        System.out.println();
     }
 }
